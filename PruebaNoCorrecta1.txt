@@ -1,0 +1,19 @@
+Programa test
+{
+    inicio()
+    {
+       
+        inum a = 10;
+        inum a = 5;
+
+      
+        istr b = a + "5";
+
+     
+        inum resultado = a + c;
+
+       
+
+        inum resultado = a + b;
+    }
+}

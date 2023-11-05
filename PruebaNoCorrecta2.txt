@@ -1,0 +1,11 @@
+Programa test
+{
+    inicio()
+    {
+        {
+            inum a = 10;
+        }
+        iescribir(a);  
+    }
+}
+

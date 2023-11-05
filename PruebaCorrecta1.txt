@@ -1,0 +1,13 @@
+Programa test
+{
+    inicio()
+    {
+        inum contador = 0;
+        ien(contador < 10)
+        {
+            iescribir(contador);
+            contador = contador + 1;
+        }
+    }
+}
+

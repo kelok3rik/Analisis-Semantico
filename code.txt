@@ -1,0 +1,10 @@
+Programa test
+{
+    inicio()
+    {
+        ien(true)
+        {
+            // Código que no modifica la condición
+        }
+    }
+}

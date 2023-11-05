@@ -1,0 +1,34 @@
+Programa test
+{
+	inicio() 
+	{		
+		istr s1 = "hola";
+		ichr c1 = '3', c2;		
+		inum n1 = 0, n2 = 2, n3 = 2,x;		
+		idec d1;
+
+		x= 0;
+				
+		
+		irepetir(n2 = 0; n2 < 10; n2++ )
+		{
+			iescribir(n2);
+		}
+		
+		ien( n1 >= 0 )
+		{
+			n1 = n3 / n2;
+		} 
+		ien otro(n1 < 10)
+		{ 
+			n1 = n2 - n3; 
+		}
+		iotro
+		{
+			iescribir("Ninguna opcion");
+		}
+		
+		
+	}
+}
+

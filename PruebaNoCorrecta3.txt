@@ -1,0 +1,8 @@
+Programa test
+{
+    inicio()
+    {
+        inum ac = 10;
+        istr b = ac + "5";  
+    }
+}

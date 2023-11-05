@@ -1,0 +1,9 @@
+Programa test
+{
+    inicio()
+    {
+        inum a = 10;
+        inum b = 5;
+        inum c = a + b;
+    }
+}
